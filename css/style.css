@@ -9,3 +9,11 @@
 .tasks {
     margin-top: 3rem;
 }
+
+.clients-carousel {
+    overflow: hidden;
+}
+
+.map {
+    height: 300px;
+}
